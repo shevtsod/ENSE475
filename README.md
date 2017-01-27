@@ -50,7 +50,7 @@ project files in the IDE. Press `F6` to run or `Ctrl + F5` to debug.
 
 ##Details
 ###Lab 1 - JUnit
-TBA
+Introduction to Java unit testing with JUnit and development of a simple coffee maker simulation program with tests written in JUnit.
 
 ---
 > Written with [StackEdit](https://stackedit.io/).
