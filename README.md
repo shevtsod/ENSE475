@@ -2,7 +2,8 @@
 # ENSE 475
 My solutions to labs in ENSE 475 - Software Testing and Validation
 ##Overview
-> **Lab 1** - JUnit
+> **Lab 1** - JUnit  
+> **Lab 2** - Test Driven Development & JUnit Continued  
 
 ##Compilation
 ###Eclipse IDE for Java Neon.1
@@ -51,6 +52,9 @@ project files in the IDE. Press `F6` to run or `Ctrl + F5` to debug.
 ##Details
 ###Lab 1 - JUnit
 Introduction to Java unit testing with JUnit and development of a simple coffee maker simulation program with tests written in JUnit.
+
+###Lab 2 - Test Driven Development & JUnit Continued
+Continued work on coffee maker simulation program and addition of new features to existing code with testing prior to implementation.  
 
 ---
 > Written with [StackEdit](https://stackedit.io/).
