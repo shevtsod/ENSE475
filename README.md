@@ -53,7 +53,7 @@ project files in the IDE. Press `F6` to run or `Ctrl + F5` to debug.
 ###Lab 1 - JUnit
 Introduction to Java unit testing with JUnit and development of a simple coffee maker simulation program with tests written in JUnit.
 
-##Lab 2 - Test Driven Development & JUnit Continued
+###Lab 2 - Test Driven Development & JUnit Continued
 Continued work on coffee maker simulation program and addition of new features to existing code with testing prior to implementation.  
 
 ---
