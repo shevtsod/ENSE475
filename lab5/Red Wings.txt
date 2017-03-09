@@ -1,0 +1,16 @@
+LW,Dan,Cleary,80
+LW,Johan,Franzen,85
+LW,Drew,Miller,79
+C,Pavel,Datsyuk,94
+C,Henrik,Zetterberg,92
+C,Valteri,Filppula,80
+RW,Todd,Bertuzzi,82
+RW,Tomas,Holmstrom,83
+RW,Darren,Helm,83
+D,Nicklas,Lidstrom,92
+D,Jonathan,Ericsson,80
+D,Brett,Lebda,75
+D,Brian,Rafalski,88
+D,Nicklas,Kronwall,82
+D,Brad,Stuart,81
+G,Chris,Osgood,84

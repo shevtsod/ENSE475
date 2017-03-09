@@ -1,0 +1,16 @@
+LW,Daniel,Paille,78
+LW,Marco,Sturm,82
+LW,Milan,Lucic,82
+C,Marc,Savard,87
+C,David,Krejci,83
+C,Patrice,Bergeron,83
+RW,Michael,Ryder,82
+RW,Blake,Wheeler,82
+RW,Mark,Recchi,82
+D,Zdeno,Chara,93
+D,Matt,Hunwick,76
+D,Mark,Stuart,79
+D,Dennis,Seidenberg,77
+D,Dennis,Wideman,81
+D,Andrew,Ference,78
+G,Tim,Thomas,82

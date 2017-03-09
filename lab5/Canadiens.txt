@@ -1,0 +1,16 @@
+LW,Andrei,Kostitsyn,81
+LW,Benoit,Pouliot,75
+LW,Travis,Moen,78
+C,Tomas,Plekanec,84
+C,Scott,Gomez,83
+C,Dominic,Moore,79
+RW,Mike,Cammalleri,85
+RW,Brian,Gionta,83
+RW,Maxim,Lapierre,77
+D,Jaroslav,Spacek,82
+D,Paul,Mara,79
+D,Hal,Gill,81
+D,Andrei,Markov,84
+D,Roman,Hamrlik,81
+D,Josh,Gorges,79
+G,Jaroslav,Halak,84

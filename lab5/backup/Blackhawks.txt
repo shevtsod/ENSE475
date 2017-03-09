@@ -1,0 +1,16 @@
+LW,Marian,Hossa,89
+LW,Andrew,Ladd,80
+LW,Kris,Versteeg,79
+C,Jonathan,Toews,89
+C,David,Bolland,80
+C,John,Madden,79
+RW,Patrick,Kane,90
+RW,Patrick,Sharp,83
+RW,Troy,Brouwer,78
+D,Duncan,Keith,87
+D,Kim,Johnsson,78
+D,Niklas,Hjalmarsson,75
+D,Brent,Seabrook,84
+D,Brian,Campbell,81
+D,Brent,Sopel,77
+G,Christobal,Huet,83

@@ -1,0 +1,16 @@
+LW,Sean,Avery,80
+LW,Brandon,Dubinsky,80
+LW,Vaclav,Prospal,82
+C,Olli,Jokinen,85
+C,Chris,Drury,85
+C,Artem,Anisimov,81
+RW,Marian,Gaborik,89
+RW,Ryan,Callahan,80
+RW,Enver,Lisin,80
+D,Wade,Redden,80
+D,Marc,Staal,83
+D,Michael,Del Zotto,80
+D,Matt,Gilroy,82
+D,Daniel,Girardi,80
+D,Michal,Rozsival,80
+G,Henrik,Lundqvist,92

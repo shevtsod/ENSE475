@@ -1,0 +1,16 @@
+LW,Nikolai,Kulemin,86
+LW,Viktor,Stalberg,83
+LW,Fredrik,Sjostrom,77
+C,Tyler,Bozak,83
+C,Mikhail,Grabovski,82
+C,Jamie,Lundmark,76
+RW,Phil,Kessel,88
+RW,Luca,Caputi,77
+RW,Christian,Hanson,78
+D,Tomas,Kaberle,92
+D,Francois,Beauchemin,84
+D,Carl,Gunnarsson,82
+D,Mike,Komisarek,82
+D,Dion,Phaneuf,89
+D,Luke,Schenn,82
+G,Jean-Sebastien,Giguere,88
