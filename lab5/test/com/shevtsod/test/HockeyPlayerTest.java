@@ -1,23 +1,17 @@
-/**
- * 
- */
-package com.shevtsod;
+package com.shevtsod.test;
 
 import static org.junit.Assert.*;
-
-import org.junit.Before;
 import org.junit.Test;
 
 /**
  * @author Daniel Shevtsov (SID: 200351253)
- *
  */
-public class HockePlayerTest {
+public class HockeyPlayerTest {
 
 	private HockeyPlayer hp;
 
 	/**
-	 * Test method for {@link com.shevtsod.HockeyPlayer#getFirstName()}.
+	 * Test method for {@link HockeyPlayer#getFirstName()}.
 	 */
 	@Test
 	public void testGetFirstName() {
@@ -26,7 +20,7 @@ public class HockePlayerTest {
 	}
 
 	/**
-	 * Test method for {@link com.shevtsod.HockeyPlayer#getLastName()}.
+	 * Test method for {@link HockeyPlayer#getLastName()}.
 	 */
 	@Test
 	public void testGetLastName() {
@@ -35,7 +29,7 @@ public class HockePlayerTest {
 	}
 
 	/**
-	 * Test method for {@link com.shevtsod.HockeyPlayer#getPosition()}.
+	 * Test method for {@link HockeyPlayer#getPosition()}.
 	 */
 	@Test
 	public void testGetPosition() {
@@ -44,7 +38,7 @@ public class HockePlayerTest {
 	}
 
 	/**
-	 * Test method for {@link com.shevtsod.HockeyPlayer#getRating()}.
+	 * Test method for {@link HockeyPlayer#getRating()}.
 	 */
 	@Test
 	public void testGetRating() {
@@ -53,7 +47,7 @@ public class HockePlayerTest {
 	}
 
 	/**
-	 * Test method for {@link com.shevtsod.HockeyPlayer#setPosition(java.lang.String)}.
+	 * Test method for {@link HockeyPlayer#setPosition(java.lang.String)}.
 	 */
 	@Test
 	public void testSetPosition() {
@@ -63,7 +57,7 @@ public class HockePlayerTest {
 	}
 
 	/**
-	 * Test method for {@link com.shevtsod.HockeyPlayer#setRating(int)}.
+	 * Test method for {@link HockeyPlayer#setRating(int)}.
 	 */
 	@Test
 	public void testSetRating() {
@@ -73,7 +67,7 @@ public class HockePlayerTest {
 	}
 
 	/**
-	 * Test method for {@link com.shevtsod.HockeyPlayer#toString()}.
+	 * Test method for {@link HockeyPlayer#toString()}.
 	 */
 	@Test
 	public void testToString() {

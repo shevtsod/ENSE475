@@ -1,7 +1,4 @@
-/**
- * 
- */
-package com.shevtsod;
+package com.shevtsod.test;
 
 import static org.junit.Assert.*;
 
@@ -9,8 +6,7 @@ import org.junit.Before;
 import org.junit.Test;
 
 /**
- * @author shevtsod
- *
+ * @author Daniel Shevtsov (SID: 200351253)
  */
 public class CSVWriterTest {
 
@@ -22,7 +18,7 @@ public class CSVWriterTest {
 	}
 
 	/**
-	 * Test method for {@link com.shevtsod.CSVWriter#CSVWriter(java.io.Writer)}.
+	 * Test method for {@link CSVWriter#CSVWriter(java.io.Writer)}.
 	 */
 	@Test
 	public void testCSVWriterWriter() {
@@ -30,7 +26,7 @@ public class CSVWriterTest {
 	}
 
 	/**
-	 * Test method for {@link com.shevtsod.CSVWriter#CSVWriter(java.io.Writer, char)}.
+	 * Test method for {@link CSVWriter#CSVWriter(java.io.Writer, char)}.
 	 */
 	@Test
 	public void testCSVWriterWriterChar() {
@@ -38,7 +34,7 @@ public class CSVWriterTest {
 	}
 
 	/**
-	 * Test method for {@link com.shevtsod.CSVWriter#CSVWriter(java.io.Writer, char, char)}.
+	 * Test method for {@link CSVWriter#CSVWriter(java.io.Writer, char, char)}.
 	 */
 	@Test
 	public void testCSVWriterWriterCharChar() {
@@ -46,7 +42,7 @@ public class CSVWriterTest {
 	}
 
 	/**
-	 * Test method for {@link com.shevtsod.CSVWriter#CSVWriter(java.io.Writer, char, char, char)}.
+	 * Test method for {@link CSVWriter#CSVWriter(java.io.Writer, char, char, char)}.
 	 */
 	@Test
 	public void testCSVWriterWriterCharCharChar() {
@@ -54,7 +50,7 @@ public class CSVWriterTest {
 	}
 
 	/**
-	 * Test method for {@link com.shevtsod.CSVWriter#writeAll(java.util.ArrayList)}.
+	 * Test method for {@link CSVWriter#writeAll(java.util.ArrayList)}.
 	 */
 	@Test
 	public void testWriteAll() {
@@ -62,7 +58,7 @@ public class CSVWriterTest {
 	}
 
 	/**
-	 * Test method for {@link com.shevtsod.CSVWriter#writeNextLine(java.lang.String[])}.
+	 * Test method for {@link CSVWriter#writeNextLine(java.lang.String[])}.
 	 */
 	@Test
 	public void testWriteNextLine() {
@@ -70,7 +66,7 @@ public class CSVWriterTest {
 	}
 
 	/**
-	 * Test method for {@link com.shevtsod.CSVWriter#close()}.
+	 * Test method for {@link CSVWriter#close()}.
 	 */
 	@Test
 	public void testClose() {

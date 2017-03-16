@@ -4,13 +4,13 @@
 * @author Trevor Douglas
 *   <A HREF="mailto:douglatr@uregina.ca"> (douglatr@uregina.ca) </A>
 *
-* Original code copyright © Mar 15, 2010 Trevor Douglas.  Modifications can be made
+* Original code copyright ï¿½ Mar 15, 2010 Trevor Douglas.  Modifications can be made
 * with Author's consent.
 * @version Mar 15, 2010
 *
 **/
 
-package com.shevtsod;
+package com.shevtsod.test;
 
 
 import java.io.*;

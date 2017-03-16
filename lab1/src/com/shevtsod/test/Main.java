@@ -1,4 +1,4 @@
-package com.shevtsod;
+package com.shevtsod.test;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;

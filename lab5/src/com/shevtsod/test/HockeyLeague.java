@@ -10,7 +10,7 @@
 *
 **/
 
-package com.shevtsod;
+package com.shevtsod.test;
 
 import java.io.File;
 import java.io.FileReader;

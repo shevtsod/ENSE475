@@ -1,12 +1,14 @@
 # ENSE 475
 My solutions to labs in ENSE 475 - Software Testing and Validation
-##Overview
+
+## Overview
 > **Lab 1** - JUnit  
 > **Lab 2** - Test Driven Development & JUnit Continued  
 > **Lab 3** - In-Class JUnit Assignment  
+> **Lab 4** - FITpro  
 
-##Compilation
-###Eclipse IDE for Java Neon.1
+## Compilation
+### Eclipse IDE for Java Neon.1
 To compile, go to
 > File -> New -> Java Project
 
@@ -21,7 +23,7 @@ Press `Ctrl + F11` to build and run, or `F11` to build and debug.
 
 You may receive a window to choose how to run the application. Select `Java Application`.  
 
-###IntelliJ IDEA 2016.2
+### IntelliJ IDEA 2016.2
 To compile, go to  
 > File -> New -> Project
 
@@ -35,7 +37,7 @@ Then, open the `Project` tab on the left, and expand the root folder.
 
 Expand the file containing `main()`. In the editor window, click the green play button beside it. There, you can choose to either run or debug the program.
 
-###NetBeans IDE 8.2
+### NetBeans IDE 8.2
 To compile, go to
 > File -> New Project  
 
@@ -59,5 +61,8 @@ Continued work on coffee maker simulation program and addition of new features t
 ### Lab 3 - In-Class JUnit Assignment
 Using Test Driven Development, implemented bowling game logic from tests written beforehand with the objective of ensuring that all tests pass.
 
----
-> Written with [StackEdit](https://stackedit.io/).
+### Lab 4 - FITpro
+Used [FITpro for Eclipse](http://fitpro.sourceforge.net/eclipse_install.html) to create unit tests.
+
+### Lab 5 - Application Testing and Code Coverage
+Tested and modified an application using JUnit and Test Driven Development. Also produced test plan and test case documents.

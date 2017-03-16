@@ -10,7 +10,7 @@
 *
 **/
 
-package com.shevtsod;
+package com.shevtsod.test;
 
 /**
  * @author tdouglas, Daniel Shevtsov (SID: 200351253)

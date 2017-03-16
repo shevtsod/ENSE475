@@ -1,7 +1,4 @@
-/**
- * 
- */
-package com.shevtsod;
+package com.shevtsod.test;
 
 import static org.junit.Assert.*;
 
@@ -9,8 +6,7 @@ import org.junit.Before;
 import org.junit.Test;
 
 /**
- * @author shevtsod
- *
+ * @author Daniel Shevtsov (SID: 200351253)
  */
 public class HockeyTeamTest {
 	
@@ -18,7 +14,6 @@ public class HockeyTeamTest {
 
 	/**
 	 * Set up before each test
-	 * @throws java.lang.Exception
 	 */
 	@Before
 	public void setUp() throws Exception {
@@ -26,7 +21,7 @@ public class HockeyTeamTest {
 	}
 
 	/**
-	 * Test method for {@link com.shevtsod.HockeyTeam#getRoster()}.
+	 * Test method for {@link HockeyTeam#getRoster()}.
 	 */
 	@Test
 	public void testGetRoster() {
@@ -51,7 +46,7 @@ public class HockeyTeamTest {
 	}
 
 	/**
-	 * Test method for {@link com.shevtsod.HockeyTeam#addPlayer(com.shevtsod.HockeyPlayer)}.
+	 * Test method for {@link HockeyTeam#addPlayer(HockeyPlayer)}.
 	 */
 	@Test
 	public void testAddPlayer() {
@@ -72,7 +67,7 @@ public class HockeyTeamTest {
 	}
 
 	/**
-	 * Test method for {@link com.shevtsod.HockeyTeam#deletePlayer(com.shevtsod.HockeyPlayer)}.
+	 * Test method for {@link HockeyTeam#deletePlayer(HockeyPlayer)}.
 	 */
 	@Test
 	public void testDeletePlayer() {
@@ -92,7 +87,7 @@ public class HockeyTeamTest {
 	}
 
 	/**
-	 * Test method for {@link com.shevtsod.HockeyTeam#getPlayer(com.shevtsod.HockeyPlayer)}.
+	 * Test method for {@link HockeyTeam#getPlayer(HockeyPlayer)}.
 	 */
 	@Test
 	public void testGetPlayer() {
@@ -125,7 +120,7 @@ public class HockeyTeamTest {
 	}
 
 	/**
-	 * Test method for {@link com.shevtsod.HockeyTeam#editPlayer(com.shevtsod.HockeyPlayer)}.
+	 * Test method for {@link HockeyTeam#editPlayer(HockeyPlayer)}.
 	 */
 	@Test
 	public void testEditPlayer() {

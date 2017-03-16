@@ -1,7 +1,4 @@
-/**
- * 
- */
-package com.shevtsod;
+package com.shevtsod.test;
 
 import static org.junit.Assert.*;
 
@@ -9,16 +6,10 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
-import java.util.ArrayList;
-
-import org.junit.Before;
-import org.junit.Rule;
 import org.junit.Test;
-import org.junit.rules.ExpectedException;
 
 /**
- * @author shevtsod
- *
+ * @author Daniel Shevtsov (SID: 200351253)
  */
 public class CSVReaderTest {
 	private CSVReader cr;
@@ -28,14 +19,14 @@ public class CSVReaderTest {
 	 */
 	public void newCSVReader() {
 		try {
-			assertNotNull(cr = new CSVReader(new FileReader(new File("Canadiens.txt"))));
+			assertNotNull(cr = new CSVReader(new FileReader(new File(TestConstants.PATH_CANADIENS_TXT))));
 		} catch (FileNotFoundException e) {
-			System.out.println("File does not exist!");
+			System.out.println("newCSVReader() - File does not exist!");
 		}
 	}
 	
 	/**
-	 * Test method for {@link com.shevtsod.CSVReader#readAll()}.
+	 * Test method for {@link CSVReader#readAll()}.
 	 */
 	@Test
 	public void testReadAll() {
@@ -45,23 +36,25 @@ public class CSVReaderTest {
 			assertNotNull(cr.readAll());
 		} catch (IOException e) {
 			System.out.println("Error in testReadAll() - IOException"); 
-		}
+		} catch (NullPointerException e) {
+		    System.out.println("testReadAll() - File does not exist!");
+        }
 		
 		//TODO: PARSE LINE TEST
 		
 	}
 
 	/**
-	 * Test method for {@link com.shevtsod.CSVReader#close()}.
+	 * Test method for {@link CSVReader#close()}.
 	 */
 	@Test
 	public void testClose() {
 		FileReader reader;
 		
 		try {
-			reader = new FileReader(new File("Canadiens.txt"));
-		} catch (FileNotFoundException e1) {
-			System.out.println("File does not exist!");
+			reader = new FileReader(new File(TestConstants.PATH_CANADIENS_TXT));
+		} catch (FileNotFoundException e) {
+			System.out.println("testClose() - File does not exist!");
 			return;
 		}
 		
@@ -69,7 +62,7 @@ public class CSVReaderTest {
 		
 		try {
 			cr.close();
-			reader.ready();
+			assertFalse(reader.ready());
 		} catch(IOException e) {
 			//Do nothing
 		}

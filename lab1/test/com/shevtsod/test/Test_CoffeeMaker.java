@@ -1,7 +1,7 @@
 /*
  * AUTHOR: Daniel Shevtsov (SID: 200351253
  */
-package com.shevtsod;
+package com.shevtsod.test;
 import ense475.*;
 
 import static org.junit.Assert.*;
