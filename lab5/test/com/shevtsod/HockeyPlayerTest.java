@@ -1,7 +1,9 @@
-package com.shevtsod.test;
+package com.shevtsod;
 
-import static org.junit.Assert.*;
+import com.shevtsod.Hockey.HockeyPlayer;
 import org.junit.Test;
+
+import static org.junit.Assert.assertEquals;
 
 /**
  * @author Daniel Shevtsov (SID: 200351253)
@@ -77,7 +79,7 @@ public class HockeyPlayerTest {
 		int rating = 50;
 		
 		hp = new HockeyPlayer(position, first, last, rating);
-		assertEquals(position+" "+last+", "+first+" "+rating, hp.toString());
+		assertEquals(position+" "+first+", "+last+" "+rating, hp.toString());
 	}
 
 }

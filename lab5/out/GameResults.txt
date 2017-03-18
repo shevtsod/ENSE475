@@ -1,0 +1,186 @@
+[2017/03/17 21:40:03] (Canadiens vs. Red Wings)
+At end of regulation...
+Canadiens = 2
+Red Wings = 1
+Canadiens wins!
+
+[2017/03/17 21:40:03] (Rangers vs. Maple Leafs)
+At end of regulation...
+Rangers = 4
+Maple Leafs = 6
+Maple Leafs wins!
+
+[2017/03/17 21:40:03] (Bruins vs. Blackhawks)
+At end of regulation...
+Bruins = 6
+Blackhawks = 4
+Bruins wins!
+
+[2017/03/17 21:40:03] (Canadiens vs. Red Wings)
+At end of regulation...
+Canadiens = 1
+Red Wings = 1
+Overtime needed
+Red Wings wins!
+
+[2017/03/17 21:40:03] (Rangers vs. Maple Leafs)
+At end of regulation...
+Rangers = 0
+Maple Leafs = 5
+Maple Leafs wins!
+
+[2017/03/17 21:40:03] (Bruins vs. Blackhawks)
+At end of regulation...
+Bruins = 3
+Blackhawks = 4
+Blackhawks wins!
+
+[2017/03/17 21:40:03] (Canadiens vs. Red Wings)
+At end of regulation...
+Canadiens = 1
+Red Wings = 4
+Red Wings wins!
+
+[2017/03/17 21:40:03] (Rangers vs. Maple Leafs)
+At end of regulation...
+Rangers = 1
+Maple Leafs = 6
+Maple Leafs wins!
+
+[2017/03/17 21:40:03] (Bruins vs. Blackhawks)
+At end of regulation...
+Bruins = 3
+Blackhawks = 3
+Overtime needed
+Blackhawks wins!
+
+[2017/03/17 21:40:03] (Canadiens vs. Red Wings)
+At end of regulation...
+Canadiens = 2
+Red Wings = 3
+Red Wings wins!
+
+[2017/03/17 21:40:03] (Rangers vs. Maple Leafs)
+At end of regulation...
+Rangers = 3
+Maple Leafs = 3
+Overtime needed
+Maple Leafs wins!
+
+[2017/03/17 21:40:03] (Bruins vs. Blackhawks)
+At end of regulation...
+Bruins = 2
+Blackhawks = 4
+Blackhawks wins!
+
+[2017/03/17 21:40:03] (Canadiens vs. Red Wings)
+At end of regulation...
+Canadiens = 5
+Red Wings = 1
+Canadiens wins!
+
+[2017/03/17 21:40:03] (Rangers vs. Maple Leafs)
+At end of regulation...
+Rangers = 2
+Maple Leafs = 3
+Maple Leafs wins!
+
+[2017/03/17 21:40:03] (Bruins vs. Blackhawks)
+At end of regulation...
+Bruins = 2
+Blackhawks = 1
+Bruins wins!
+
+[2017/03/17 21:40:48] (Canadiens vs. Red Wings)
+At end of regulation...
+Canadiens = 2
+Red Wings = 2
+Overtime needed
+Red Wings wins!
+
+[2017/03/17 21:40:48] (Rangers vs. Maple Leafs)
+At end of regulation...
+Rangers = 1
+Maple Leafs = 2
+Maple Leafs wins!
+
+[2017/03/17 21:40:48] (Bruins vs. Blackhawks)
+At end of regulation...
+Bruins = 3
+Blackhawks = 3
+Overtime needed
+Bruins wins!
+
+[2017/03/17 21:40:48] (Canadiens vs. Red Wings)
+At end of regulation...
+Canadiens = 0
+Red Wings = 2
+Red Wings wins!
+
+[2017/03/17 21:40:48] (Rangers vs. Maple Leafs)
+At end of regulation...
+Rangers = 3
+Maple Leafs = 5
+Maple Leafs wins!
+
+[2017/03/17 21:40:48] (Bruins vs. Blackhawks)
+At end of regulation...
+Bruins = 3
+Blackhawks = 3
+Overtime needed
+Blackhawks wins!
+
+[2017/03/17 21:40:48] (Canadiens vs. Red Wings)
+At end of regulation...
+Canadiens = 5
+Red Wings = 4
+Canadiens wins!
+
+[2017/03/17 21:40:48] (Rangers vs. Maple Leafs)
+At end of regulation...
+Rangers = 0
+Maple Leafs = 2
+Maple Leafs wins!
+
+[2017/03/17 21:40:48] (Bruins vs. Blackhawks)
+At end of regulation...
+Bruins = 2
+Blackhawks = 3
+Blackhawks wins!
+
+[2017/03/17 21:40:48] (Canadiens vs. Red Wings)
+At end of regulation...
+Canadiens = 4
+Red Wings = 1
+Canadiens wins!
+
+[2017/03/17 21:40:48] (Rangers vs. Maple Leafs)
+At end of regulation...
+Rangers = 1
+Maple Leafs = 3
+Maple Leafs wins!
+
+[2017/03/17 21:40:48] (Bruins vs. Blackhawks)
+At end of regulation...
+Bruins = 0
+Blackhawks = 3
+Blackhawks wins!
+
+[2017/03/17 21:40:48] (Canadiens vs. Red Wings)
+At end of regulation...
+Canadiens = 1
+Red Wings = 2
+Red Wings wins!
+
+[2017/03/17 21:40:48] (Rangers vs. Maple Leafs)
+At end of regulation...
+Rangers = 5
+Maple Leafs = 0
+Rangers wins!
+
+[2017/03/17 21:40:48] (Bruins vs. Blackhawks)
+At end of regulation...
+Bruins = 5
+Blackhawks = 4
+Bruins wins!
+

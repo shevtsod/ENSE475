@@ -10,11 +10,14 @@
 *
 **/
 
-package com.shevtsod.test;
+package com.shevtsod.Hockey;
 
 
-import java.io.*;
-import java.util.*;
+import java.io.BufferedWriter;
+import java.io.IOException;
+import java.io.Writer;
+import java.util.Iterator;
+import java.util.List;
 
 
 /**
@@ -77,11 +80,11 @@ public class CSVWriter {
 
     /*
      * Writes the entire ArrayList to the BufferedWritier.
-     * @param allLines - the ArrayList<String[}> to write out to the file
+     * @param allLines - the List<String[]> to write out to the file
      * @throws IOException - let user deal with exceptions...
      */
-    public void writeAll(ArrayList<String[]> allLines) throws IOException {
-        //Let's try that iterator thing you showed in class...
+    public void writeAll(List<String[]> allLines) throws IOException {
+        /* Let's try that iterator thing you showed in class... */
         for (Iterator<String[]> it = allLines.iterator(); it.hasNext();) {
             String[] nextLine = (String[]) it.next();
             writeNextLine(nextLine);

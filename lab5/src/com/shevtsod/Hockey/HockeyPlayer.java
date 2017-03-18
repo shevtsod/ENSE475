@@ -10,7 +10,7 @@
 *
 **/
 
-package com.shevtsod.test;
+package com.shevtsod.Hockey;
 
 /**
  * @author tdouglas, Daniel Shevtsov (SID: 200351253)
@@ -67,7 +67,7 @@ public class HockeyPlayer {
 
 
     public String toString() {
-        return (position+" "+lastName+", "+firstName+" "+rating);
+        return (position+" "+firstName+", "+lastName+" "+rating);
     }
 
 

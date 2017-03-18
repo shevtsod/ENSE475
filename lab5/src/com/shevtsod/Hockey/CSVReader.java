@@ -10,7 +10,7 @@
 *
 **/
 
-package com.shevtsod.test;
+package com.shevtsod.Hockey;
 
 /**
  * @author tdouglas, Daniel Shevtsov (SID: 200351253)

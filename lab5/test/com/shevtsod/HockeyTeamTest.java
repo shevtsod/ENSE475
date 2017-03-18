@@ -1,9 +1,11 @@
-package com.shevtsod.test;
+package com.shevtsod;
 
-import static org.junit.Assert.*;
-
+import com.shevtsod.Hockey.HockeyPlayer;
+import com.shevtsod.Hockey.HockeyTeam;
 import org.junit.Before;
 import org.junit.Test;
+
+import static org.junit.Assert.*;
 
 /**
  * @author Daniel Shevtsov (SID: 200351253)
@@ -143,5 +145,4 @@ public class HockeyTeamTest {
 		assertEquals(60, ht.getPlayer(hp1).getRating());
 		assertEquals("position2", ht.getPlayer(hp1).getPosition());
 	}
-
 }

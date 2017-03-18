@@ -10,18 +10,21 @@
 *
 **/
 
-package com.shevtsod.test;
+package com.shevtsod.Hockey;
 
 /**
  * @author tdouglas, Daniel Shevtsov (SID: 200351253)
  *
  */
+
 import java.util.ArrayList;
+import java.util.Collections;
+import java.util.List;
 
 
 public class HockeyTeam {
 
-    private ArrayList<HockeyPlayer> roster = new ArrayList<HockeyPlayer>();
+    private ArrayList<HockeyPlayer> roster = new ArrayList<>();
     public String teamName;
     public static final int ROSTER_SIZE = 16;
 
@@ -41,7 +44,7 @@ public class HockeyTeam {
     /**
      * Precondition : The roster rules are observed prior to adding a new
      * player.  This function will only check for duplicate players
-     * @param HockeyPlayer
+     * @param player
      * @return true or false
      */
     public boolean addPlayer(HockeyPlayer player) {
@@ -76,7 +79,7 @@ public class HockeyTeam {
      * Precondition : The roster rules are observed prior to deleting a new
      * player.  This function will delete a player if it finds a matching
      * First and Last Name.
-     * @param HockeyPlayer
+     * @param player
      * @return true or false
      */
 
@@ -94,7 +97,7 @@ public class HockeyTeam {
 
 
     /**
-     * @param HockeyPlayer to retrieve
+     * @param player to retrieve
      * @return HockeyPlayer or Null
      */
     public HockeyPlayer getPlayer(HockeyPlayer player) {
@@ -109,7 +112,7 @@ public class HockeyTeam {
     }
 
     /**
-     * @param HockeyPlayer to edit.  Only edit a players position and rating.
+     * @param player to edit.  Only edit a players position and rating.
      * @return true or false
      */
 
@@ -123,5 +126,13 @@ public class HockeyTeam {
             }
         }
         return false;
+    }
+
+    /**
+     * Get an unmodifiable list of players to iterate through and retrieve data
+     * @return UnmodifiableList of HockeyPlayers of this team
+     */
+    public List<HockeyPlayer> getPlayers() {
+        return Collections.unmodifiableList(roster);
     }
 }
