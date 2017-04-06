@@ -6,6 +6,8 @@ My solutions to labs in ENSE 475 - Software Testing and Validation
 > **Lab 2** - Test Driven Development & JUnit Continued  
 > **Lab 3** - In-Class JUnit Assignment  
 > **Lab 4** - FITpro  
+> **Lab 5** - Application Testing and Code Coverage  
+> **Lab 6** - Web Testing with JWebUnit  
 
 ## Compilation
 ### Eclipse IDE for Java Neon.1
@@ -66,3 +68,6 @@ Used [FITpro for Eclipse](http://fitpro.sourceforge.net/eclipse_install.html) to
 
 ### Lab 5 - Application Testing and Code Coverage
 Tested and modified an application using JUnit and Test Driven Development. Also produced test plan and test case documents.
+
+### Lab 6 - Web Testing with JWebUnit
+Tested a web application using Java with the JUnit and JWebUnit testing frameworks.
