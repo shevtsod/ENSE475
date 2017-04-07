@@ -135,3 +135,5 @@ hs_err_pid*
 src/META-INF/*.MF
 
 lab6/lib/*
+
+lab6/log\.txt
